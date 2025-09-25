@@ -12,3 +12,7 @@ state.json
 # OS / Editor
 .DS_Store
 .vscode/
+
+# Exclude PDF report
+TASK_3_Terraform_Report.pdf
+
