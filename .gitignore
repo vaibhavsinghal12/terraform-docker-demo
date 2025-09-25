@@ -16,3 +16,6 @@ state.json
 # Exclude PDF report
 TASK_3_Terraform_Report.pdf
 
+# Terraform plan files
+*.tfplan
+
