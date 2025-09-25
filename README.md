@@ -72,6 +72,6 @@ Project documentation for clarity and professionalism
 DevOps workflow understanding: init, plan, apply, destroy
 
 Contact / Author
-Ashok Jangid
-GitHub: https://github.com/Aj4236
-Email: Ajdevops65@gmail.com
+Vaibhav Agarwal
+GitHub: https://github.com/Vaibhavsinghal12
+Email: Vaibhavagarwal1202@gmail.com
